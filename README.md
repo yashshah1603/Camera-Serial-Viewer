@@ -6,7 +6,7 @@ This project provides a graphical user interface (GUI) to interact with a camera
 
 ## Features
 
-- **Camera Interaction**: 
+### Camera Interaction: 
   - Open/close camera
   - Set resolution
   - Control exposure time and gain (both manual and automatic)
